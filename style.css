@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://github.com/d3rkwind/Assets/blob/main/images%20(3).jpeg?raw=true');
+    background-size: cover;
+    background-position: center;
+    color: #4e9a06;
+    font-family: 'Fira Code', 'Consolas', monospace;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 50px 0;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    color: #00ffcc;
+}
+
+h2 {
+  text-decoration: underline;
+  font-family: 'Lucida', monospace;
+  color: #00ffcc;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 40px 20px;
+    border-bottom: 2px solid #4e9a06;
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #111;
+    color: #00ffcc;
+    padding: 20px 0;
+}
+ul {
+  font-family: 'Fira Code', 'Consolas', monospace;
+  text-align: left;
+}
+
+h3 {
+  color: #00ffcc;
+}
